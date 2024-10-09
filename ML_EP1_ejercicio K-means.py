@@ -2,7 +2,7 @@
 """
 Created on Fri Oct  4 12:15:40 2024
 
-@author: triton-MX
+@author: Triton Perea
 
 Machine Learning
 Ejercicio del método k-means
