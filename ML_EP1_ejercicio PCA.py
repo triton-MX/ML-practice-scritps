@@ -2,7 +2,7 @@
 """
 Created on Fri Oct  4 13:44:39 2024
 
-@author: triton-MX
+@author: Triton Perea
 
 Machine Learning
 Ejercicio PCA
