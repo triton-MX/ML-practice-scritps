@@ -3,7 +3,7 @@
 Created on Fri Oct  4 13:59:51 2024
 
 
-@author: triton-MX
+@author: Triton Perea
 
 Machine Learning
 Eejercicio Maquina de Soporte Vectorial suave (SVC)
