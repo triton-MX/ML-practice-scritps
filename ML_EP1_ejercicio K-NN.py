@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Oct  4 13:05:59 2024
-@author: triton-MX
+@author: Triton Perea
 
 Machine Learning
 Ejercicio K-NN
